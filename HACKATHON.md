@@ -4,8 +4,8 @@
 
 | Field | Value |
 |--------|--------|
-| **Email** | `demo@codeguardian.app` |
-| **Password** | `HackathonDemo2026!` |
+| **Email** | `demo@gmail.com` |
+| **Password** | `Demo123@` |
 
 Create the account once:
 
